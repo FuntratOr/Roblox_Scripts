@@ -12,4 +12,4 @@ After having any of those, run the script.
 just to be more informative, most of the scripts we make aren't compatible with any FREE EXPLOIT/EXECUTORS. since free exploits doesn't have the functions needed.
 
 # Join my discord server:
-http://creativehell.xyz/dd.php
+https://funtrat0r.creativehell.xyz/dd.php
